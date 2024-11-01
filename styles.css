@@ -1,0 +1,17 @@
+body{
+background:black;
+color: wheat;
+margin: 0px;
+}
+
+
+header{
+    border: wheat;
+    padding: 20px;
+    font-size: 32px;
+}
+
+section{
+    background-color:rgb(67, 91, 85)
+    
+}
